@@ -27,8 +27,9 @@ Este proyecto fue desarrollado como trabajo final para la certificación de **Po
 
 ---
 ## 🖼️ Vista Previa del Dashboard
-![Dashboard Preview](dashboard_preview.png)
-
+![Dashboard Principal](PBI1.jpg)
+![Análisis Geográfico](PBI2.jpg)
+![Detalle de Ventas](PBI4.jpg)
 ## 📥 Cómo visualizarlo
 1. Descarga el archivo `.pbix` de este repositorio.
 2. Ábrelo con **Power BI Desktop**.
