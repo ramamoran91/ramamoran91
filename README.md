@@ -17,7 +17,7 @@ Apasionado por transformar datos operativos en decisiones estratégicas. Tengo e
 
 ## 📊 Proyectos Destacados
 
-### 📈 [Análisis de Ventas Omnicanal y Rentabilidad - Power BI](https://github.com/ramamoran91/Portfolio/tree/main/Analisis-Ventas-Omnicanal-PowerBI)
+### 📈 [Análisis de Ventas Omnicanal y Rentabilidad - Power BI](https://github.com/ramamoran91/ramamoran91/tree/main/Analisis-Ventas-Omnicanal-PowerBI)
 *Proyecto integrador (UTN) donde automaticé la consolidación de datos de ventas de múltiples fuentes (Excel/TXT). Diseñé KPIs de gestión que permiten identificar que el 59% de los ingresos se concentran en Buenos Aires y optimizar la estrategia de stock por categoría.*
 > **Keywords:** ETL, Modelo en Estrella, DAX, Visualización Dinámica.
 
