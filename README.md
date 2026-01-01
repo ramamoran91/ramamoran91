@@ -25,9 +25,7 @@ Apasionado por transformar datos operativos en decisiones estratégicas. Tengo e
 *Desarrollo de un modelo de aprendizaje no supervisado (K-Means) para clasificar perfiles de clientes según su comportamiento de compra y fidelidad.*
 - **Impacto:** Transformación de datos brutos en segmentos accionables, permitiendo personalizar estrategias de marketing. Validación del modelo mediante métricas de Silhouette Score (0.58).
 - **Herramientas:** Python, Scikit-Learn (K-Means), Pandas, Seaborn para visualización de clusters.
-
-### ⚙️ [Transformación Digital: Implementación de ERP Estándar]
-*Liderazgo del proceso de migración de registros manuales a un sistema de gestión integral. Logré la trazabilidad total del stock y una reducción del 15% en costos de mercadería mediante la optimización del flujo de compras y proveedores.*
+> **Keywords:** Python, Pandas, Limpieza de Datos, Análisis Estadístico.
 ### ⚙️ [Transformación Digital: Implementación de ERP Estándar]
 *Liderazgo del proceso de migración de registros manuales a un sistema de gestión integral. Logré la trazabilidad total del stock y una reducción del 15% en costos de mercadería mediante la optimización del flujo de compras y proveedores.*
 
