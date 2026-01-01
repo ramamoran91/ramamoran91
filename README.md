@@ -35,7 +35,7 @@ Apasionado por transformar datos operativos en decisiones estratégicas. Tengo e
 
 - **LinkedIn:** [linkedin.com/in/ramiromoran](https://linkedin.com/in/ramiromoran)
 - **Email:** [rama.moran91@gmail.com](mailto:rama.moran91@gmail.com)
-- **Mi CV:** [Descargar CV en PDF](CV_Ramiro_Moran.pdf)
+- **Mi CV:** [Descargar CV en PDF](Ramiro _Adrian_Morán-CV_V3.pdf)
 
 ---
 
