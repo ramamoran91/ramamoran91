@@ -22,11 +22,6 @@ Apasionado por transformar datos operativos en decisiones estratégicas. Tengo e
 ![ERP](https://img.shields.io/badge/ERP-Implementation-blue?style=flat&logo=sap&logoColor=white)
 - Implementación de sistemas, gestión de proveedores y facturación ARCA.
 
-
-### Metodologías
-![Kaizen](https://img.shields.io/badge/Kaizen-Continuous_Improvement-green?style=flat&logo=lean-six-sigma&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-Methodology-blue?style=flat&logo=agile&logoColor=white)
-- Optimización de procesos y mejora continua.
-
 ---
 
 ## 📊 Proyectos Destacados
@@ -42,6 +37,19 @@ Apasionado por transformar datos operativos en decisiones estratégicas. Tengo e
 > **Keywords:** Python, Pandas, Limpieza de Datos, Análisis Estadístico.
 ### ⚙️ [Transformación Digital: Implementación de ERP Estándar]
 *Liderazgo del proceso de migración de registros manuales a un sistema de gestión integral. Logré la trazabilidad total del stock y una reducción del 15% en costos de mercadería mediante la optimización del flujo de compras y proveedores.*
+
+---
+## 🎓 Educación y Certificaciones
+
+### 🏛️ Formación Académica
+- **Licenciatura en Administración** | Universidad Nacional de Luján (2021 – Junio 2027) 
+  - *Cursando actualmente el 4to año de la carrera.*
+
+### 📜 Cursos y Capacitaciones Técnicas
+- **Data Analytics** | Coderhouse (En curso)
+- **Power BI Inicial** | Universidad Tecnológica Nacional (Agosto 2025)
+- **Data Science con Python** | Universidad Tecnológica Nacional (Marzo 2025)
+- **Tango Gestión (ERP)** | Eddis Educativa (Noviembre 2018)
 
 ---
 
