@@ -22,8 +22,10 @@ Apasionado por transformar datos operativos en decisiones estratégicas. Tengo e
 ![ERP](https://img.shields.io/badge/ERP-Implementation-blue?style=flat&logo=sap&logoColor=white)
 - Implementación de sistemas, gestión de proveedores y facturación ARCA.
 
----
-- **Metodologías:** Optimización de procesos y mejora continua.
+
+### Metodologías
+![Kaizen](https://img.shields.io/badge/Kaizen-Continuous_Improvement-green?style=flat&logo=lean-six-sigma&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-Methodology-blue?style=flat&logo=agile&logoColor=white)
+- Optimización de procesos y mejora continua.
 
 ---
 
