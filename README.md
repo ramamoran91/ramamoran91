@@ -6,11 +6,23 @@ Apasionado por transformar datos operativos en decisiones estratégicas. Tengo e
 
 ---
 
+---
+
 ## 🛠️ Tecnologías y Herramientas
 
-- **Análisis de Datos:** Power BI (DAX, ETL), Excel Avanzado.
-- **Lenguajes y Bases de Datos:** Python (Pandas, Numpy), SQL (En curso).
-- **Gestión Empresarial:** Implementación de ERP, Gestión de Proveedores, Facturación ARCA.
+### 📊 Análisis de Datos & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+- Desarrollo de dashboards avanzados, DAX y procesos ETL con Power Query.
+
+### 🐍 Lenguajes y Bases de Datos
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+- Manipulación de datos (Pandas/Numpy) y fundamentos de SQL (en curso).
+
+### ⚙️ Gestión Empresarial
+![ERP](https://img.shields.io/badge/ERP-Implementation-blue?style=flat&logo=sap&logoColor=white)
+- Implementación de sistemas, gestión de proveedores y facturación ARCA.
+
+---
 - **Metodologías:** Optimización de procesos y mejora continua.
 
 ---
