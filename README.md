@@ -27,7 +27,7 @@ Apasionado por transformar datos operativos en decisiones estratégicas. Tengo e
 ## 📊 Proyectos Destacados
 
 ### 📈 [Análisis de Ventas Omnicanal y Rentabilidad - Power BI](https://github.com/ramamoran91/ramamoran91/tree/main/Analisis-Ventas-Omnicanal-PowerBI)
-*Proyecto integrador (UTN) donde automaticé la consolidación de datos de ventas de múltiples fuentes (Excel/TXT). Diseñé KPIs de gestión que permiten identificar que el 59% de los ingresos se concentran en Buenos Aires y optimizar la estrategia de stock por categoría.*
+*Proyecto integrador (UTN) donde automaticé la consolidación y transformación de datos de ventas (ETL) provenientes de fuentes heterogéneas (Excel/TXT/CSV). Diseñé un modelo de datos orientado a la generación de KPIs estratégicos que facilitan la extracción de insights sobre el rendimiento de puntos de venta y la optimización de stock por categoría. El dashboard prioriza la usabilidad mediante una interfaz intuitiva, selectores dinámicos y paneles de control que permiten una exploración fluida de la información.*
 > **Keywords:** ETL, Modelo en Estrella, DAX, Visualización Dinámica.
 
 ### 🐍 [Segmentación de Clientes mediante Machine Learning (Python)](https://github.com/ramamoran91/ramamoran91/tree/main/Segmentacion-Clientes-Python-ML)
